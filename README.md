@@ -3,6 +3,7 @@
 #Desktop Preview
 ![steve-jobs](https://github.com/francismcpc/quote-generator/assets/119109562/f06078ea-e40e-4e4b-8b0e-1c7da73e030b)
 
+
 # DOM Manipulation
 
 `let`: Keyword used to declare variables.
