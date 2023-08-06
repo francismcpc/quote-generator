@@ -88,7 +88,7 @@ const quotes = [
     author: "Malala Yousafzai",
     position: "education activist and the 2014 Nobel Peace Prize laureate",
     credit: "illustration by Aaron Sacco",
-    authorImg: "/images//image10.webp",
+    authorImg: "/images/image10.webp",
   },
 ];
 
