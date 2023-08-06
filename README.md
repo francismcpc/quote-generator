@@ -1,7 +1,7 @@
 # Quote Generator
 
 # Desktop Preview
-![Group 4](https://github.com/francismcpc/quote-generator/assets/119109562/d51e3229-3fb0-41a0-8edf-ff993e5ab1cd)
+![steve-jobs](https://github.com/francismcpc/quote-generator/assets/119109562/f06078ea-e40e-4e4b-8b0e-1c7da73e030b)
 
 # DOM Manipulation
 
@@ -12,4 +12,5 @@
 `Math.floor()`: Rounds a number down to the nearest integer.
 `innerText`: Property to set the text content of an element.
 `src`: Property to set the source attribute of an image element.
+
 
