@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-color: #080808;
+  --primary-color: #fff;
+  --accent-color: #01fc87;
+  --dark-color: #000;
+  --font-family: "Figtree", sans-serif;
+}
+
+body {
+  background-color: var(--bg-color);
+  height: 100vh;
+  color: var(--primary-color);
+  font-family: var(--font-family);
+}
+
+.card__image {
+  overflow: hidden;
+}
+
+.card__image img:hover {
+  transform: scale(1.1);
+
+  cursor: pointer;
+}
+
+.card__image img {
+  height: 100%;
+  width: 100%;
+  transition: 0.3s ease-out;
+}
+
+.center__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  margin: auto;
+  display: flex;
+
+  background-color: var(--dark-color);
+}
+
+.card__text {
+  position: relative;
+  margin-top: 30px;
+}
+
+.card__text .icon2 {
+  position: absolute;
+  right: 0;
+}
+
+.card__content {
+  padding: 2rem;
+}
+
+.card__quote {
+  max-width: 500px;
+  font-size: 2.25rem;
+  padding: 1rem 0;
+}
+
+.card__author {
+  margin-top: 50px;
+}
+
+.card__author h1 {
+  color: var(--accent-color);
+}
+
+.card__line {
+  border: 1px solid #202020;
+  margin: 30px 0;
+}
+
+.card__button button {
+  border: none;
+  font-size: 1rem;
+  font-weight: 700;
+  font-family: var(--font-family);
+  padding: 1rem 2rem;
+  transition: 0.3s ease-in-out;
+  background-color: var(--primary-color);
+}
+.credits {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 50px;
+  padding: 2rem;
+}
+
+.card__button button:hover {
+  cursor: pointer;
+  background-color: var(--accent-color);
+}
+@media screen and (max-width: 1099px) {
+  .card {
+    flex-direction: column-reverse;
+  }
+}
