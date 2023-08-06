@@ -12,7 +12,7 @@ const quotes = [
     author: "Steve Jobs",
     position: "Co-founder, Chairman, and CEO of Apple",
     credit: "illustration by Bhagvan Das",
-    authorImg: "/images/image1.png",
+    authorImg: "/images/image1.webp",
   },
   {
     quote:
@@ -21,7 +21,7 @@ const quotes = [
     position:
       "German priest, theologian, author, hymnwriter, professor, and Augustinian friar.",
     credit: "illustration of The Pop Art Factory",
-    authorImg: "/images/image2.png",
+    authorImg: "/images/image2.webp",
   },
   {
     quote:
@@ -29,7 +29,7 @@ const quotes = [
     author: "Michael Jackson",
     position: "American singer, songwriter, dancer, and philanthropist",
     credit: "illustration by Bhagvan Das",
-    authorImg: "/images/image3.png",
+    authorImg: "/images/image3.webp",
   },
   {
     quote:
@@ -38,7 +38,7 @@ const quotes = [
     position:
       "German-born theoretical physicist, most influential scientists of all time",
     credit: "illustration by Abdelrahman Taymour",
-    authorImg: "/images/image4.png",
+    authorImg: "/images/image4.webp",
   },
   {
     quote:
@@ -46,7 +46,7 @@ const quotes = [
     author: "Stan Lee",
     position: "American comic book writer, editor, publisher, and producer",
     credit: "illustration found in reddit r/Art",
-    authorImg: "/images/image5.png",
+    authorImg: "/images/image5.webp",
   },
   {
     quote:
@@ -54,7 +54,7 @@ const quotes = [
     author: "Mark Zuckerberg",
     position: "Co-founded Facebook and Meta Platforms",
     credit: "illustration found  in UP Magazine",
-    authorImg: "/images/image6.png",
+    authorImg: "/images/image6.webp",
   },
   {
     quote:
@@ -63,7 +63,7 @@ const quotes = [
     position:
       "host, television producer, actress, author, and media proprietor.",
     credit: "illustration found in comicbookandmovie reviews",
-    authorImg: "/images/image7.png",
+    authorImg: "/images/image7.webp",
   },
   {
     quote:
@@ -72,7 +72,7 @@ const quotes = [
     position:
       "CEO and product architect of Tesla, Inc. the owner and CTO of Twitter",
     credit: "illustration found in Dreamstime",
-    authorImg: "/images/image8.png",
+    authorImg: "/images/image8.webp",
   },
   {
     quote:
@@ -80,7 +80,7 @@ const quotes = [
     author: "Barrack Obama",
     position: "44th president of theUnited States from 2009 to 2017",
     credit: "illustration by Aaron Sacco",
-    authorImg: "/images/image9.png",
+    authorImg: "/images/image9.webp",
   },
   {
     quote:
@@ -88,7 +88,7 @@ const quotes = [
     author: "Malala Yousafzai",
     position: "education activist and the 2014 Nobel Peace Prize laureate",
     credit: "illustration by Aaron Sacco",
-    authorImg: "/images/image10.png",
+    authorImg: "/images//image10.webp",
   },
 ];
 
