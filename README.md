@@ -24,7 +24,7 @@ The Quote Generator is a fun project that randomly displays quotes from various 
 - Responsive Design: The application is designed to work seamlessly across different devices and screen sizes.
 
 ## Demo
-Check out the live demo of the Insure Landing Page [here](https://quote-generator-kappa-lime.vercel.app/)
+Check out the live demo of the Quote Generator [here](https://quote-generator-kappa-lime.vercel.app/)
 
 ## Technologies Used
 
