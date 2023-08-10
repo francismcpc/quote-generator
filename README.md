@@ -23,6 +23,9 @@ The Quote Generator is a fun project that randomly displays quotes from various 
 - Interactive Design: Quotes are presented in a visually appealing card layout with smooth image scaling on hover.
 - Responsive Design: The application is designed to work seamlessly across different devices and screen sizes.
 
+## Demo
+Check out the live demo of the Insure Landing Page [here](https://quote-generator-kappa-lime.vercel.app/)
+
 ## Technologies Used
 
 - HTML: The structure of the web application is built using HTML elements.
