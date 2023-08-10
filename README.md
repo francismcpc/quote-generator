@@ -1,7 +1,7 @@
 # Quote Generator
 ![steve-jobs](https://github.com/francismcpc/quote-generator/assets/119109562/f06078ea-e40e-4e4b-8b0e-1c7da73e030b)
 
-A simple web application that generates inspirational quotes along with their authors, positions, and image credits.
+A simple web application that generates inspirational quotes along with their authors, positions, author image and image credits.
 
 ## Table of Contents
 
